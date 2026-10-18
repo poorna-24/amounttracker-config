@@ -1,6 +1,6 @@
 {
-  "_help": "allFree: true makes the whole app free (nothing needs a plan), whatever the list below says. In the list, true = needs a plan, false = free. blurPercent is 0 to 30. EXPORT, SETTINGS, MYDETAILS and GUIDE are always free. Pages: OVERVIEW...CATEGORIES. TAB_ = the bottom tabs. TRANS_ = the views on the Trans. tab. HOME_ = the cards on Overview. ACC_ = the top cards on Accounts. SYNC_ = the cards on the Sync page. PLAN_ = the tabs inside Budgets and planning.",
-  "allFree": false,
+  "_help": "plusEnabled: true switches Plus on for everyone, false switches it off (the whole app is free, whatever the list says). In the list, true = needs a plan, false = free. blurPercent is 0 to 30. EXPORT, SETTINGS, MYDETAILS and GUIDE are always free. Pages: OVERVIEW...CATEGORIES. TAB_ = the bottom tabs. TRANS_ = the views on the Trans. tab. HOME_ = the cards on Overview. ACC_ = the top cards on Accounts. SYNC_ = the cards on the Sync page. PLAN_ = the tabs inside Budgets and planning.",
+  "plusEnabled": false,
   "blurPercent": 6,
   "features": {
     "OVERVIEW": false,
